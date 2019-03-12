@@ -50,7 +50,7 @@
     {
         "id": 5,
         "name": "Fel Iron Bar",
-        "image": "images/FelIronBar.png",
+        "image": "images/felIronBar.png",
         "category":
             {
                 "id": 2,
@@ -146,7 +146,7 @@
     {
         "id": 13,
         "name": "Fel Iron Ore",
-        "image": "images/felIronOre.png",
+        "image": "images/FelIronOre.png",
         "category":
             {
                 "id": 1,
