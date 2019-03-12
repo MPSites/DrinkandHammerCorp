@@ -1,0 +1,363 @@
+[
+    {   
+        "id": 1,
+        "name": "Adamantide Bar",
+        "image": "images/adamBar.png",
+        "category":
+            {
+                "id": 2,
+                "name":"Crafting"
+            },
+        "cena": 15,
+        "DSC": "Rare material, blue color, good for magical infusion"
+    },
+    {
+        "id": 2,
+        "name": "Copper Bar",
+        "image": "images/copperBar.png",
+        "category":
+            {
+                "id": 2,
+                "name":"Crafting"
+            },
+        "cena": 5,
+        "DSC": "Common material, orange color, good for common use items"
+    },
+    {
+        "id": 3,
+        "name": "Dark Iron Bar",
+        "image": "images/darkIronBar.png",
+        "category":
+            {
+                "id": 2,
+                "name":"Crafting"
+            },
+        "cena": 10,
+        "DSC": "Smithing material, dark grey/Black color, usually found in deeper queries"
+    },
+    {
+        "id": 4,
+        "name": "Eternium Bar",
+        "image": "images/eterniumBar.png",
+        "category":
+            {
+                "id": 2,
+                "name":"Crafting"
+            },
+        "cena":25,
+        "DSC": "Precious material, purple color, good for magically infused tools"
+    },
+    {
+        "id": 5,
+        "name": "Fel Iron Bar",
+        "image": "images/felIronBar.png",
+        "category":
+            {
+                "id": 2,
+                "name":"Crafting"
+            },
+        "cena":15,
+        "DSC": "Rare material, light green color, good for magical infusion"
+    },
+    {
+        "id": 6,
+        "name": "Gold Bar",
+        "image": "images/goldBar.png",
+        "category":
+            {
+                "id": 2,
+                "name":"Crafting"
+            },
+        "cena":10,
+        "DSC": "Half-rare material, yellow color, generally precious to have, Dwarfs go nutz for it!"
+    },
+    {
+        "id": 7,
+        "name": "Iron Bar",
+        "image": "images/ironBar.png",
+        "category":
+            {
+                "id": 2,
+                "name":"Crafting"
+            },
+        "cena":5,
+        "DSC": "Common material, grey color, good for commonly used weapons and armor"
+    },
+    {
+        "id": 8,
+        "name": "Thorium Bar",
+        "image": "images/thorimBar.png",
+        "category":
+            {
+                "id": 2,
+                "name":"Crafting"
+            },
+        "cena":15,
+        "DSC": "Rare material, pale bluish color, good for heavy weapons"
+    },
+    {
+        "id": 9,
+        "name": "Adamantide Ore",
+        "image": "images/adamOre.png",
+        "category":
+            {
+                "id": 1,
+                "name":"Raw Materials"
+            },
+        "cena":10,
+        "DSC": "Rare raw material, blue color, can be smelted into bars"
+    },
+    {
+        "id": 10,
+        "name": "Copper Ore",
+        "image": "images/copperOre.png",
+        "category":
+            {
+                "id": 1,
+                "name":"Raw Materials"
+            },
+        "cena":5,
+        "DSC": "Common raw material, orange color, can be smelted into bars, usually it can be found near hills and river banks"
+    },
+    {
+        "id": 11,
+        "name": "Dark Iron Ore",
+        "image": "images/darkIronOre.png",
+        "category":
+            {
+                "id": 1,
+                "name":"Raw Materials"
+            },
+        "cena":10,
+        "DSC": "Can be smelted into bars, dark grey/black color, usually found in deeper queries"
+    },
+    {
+        "id": 12,
+        "name": "Eternium Ore",
+        "image": "images/eterniumOre.png",
+        "category":
+            {
+                "id": 1,
+                "name":"Raw Materials"
+            },
+        "cena":30,
+        "DSC": "Precious raw material, purple color, usually found in Nether regions"
+    },
+    {
+        "id": 13,
+        "name": "Fel Iron Ore",
+        "image": "images/felIronOre.png",
+        "category":
+            {
+                "id": 1,
+                "name":"Raw Materials"
+            },
+        "cena":25,
+        "DSC": "Rare raw material, green color, can be smelted into bars, emits with foul Fel energy"
+    },
+    {
+        "id": 14,
+        "name": "Gold Ore",
+        "image": "images/goldOre.png",
+        "category":
+            {
+                "id": 1,
+                "name":"Raw Materials"
+            } ,
+        "cena":15,
+        "DSC": "Half-rare material, yellow color, generally precious to find, can be cast into items, usually coins"
+    },
+    {
+        "id": 15,
+        "name": "Iron Ore",
+        "image": "images/ironOre.png",
+        "category":
+            {
+                "id": 1,
+                "name":"Raw Materials"
+            } ,
+        "cena":5,
+        "DSC": "Common raw material, grey color, generally good to find, when combined with copper it can be casted into bronze or tin bars"
+    },
+    {
+        "id": 16,
+        "name": "Thorium Ore",
+        "image": "images/thorimOre.png",
+        "category":
+            {
+                "id": 1,
+                "name":"Raw Materials"
+            },
+        "cena":15,
+        "DSC": "Rare raw material, pale bluish color, can be smelted into bars, got the name form the mighty Norse God Thor"
+    },
+    {
+        "id": 16,
+        "name": "Azure",
+        "image": "images/azure.png",
+        "category":
+            {
+                "id": 3,
+                "name":"Precious Stones"
+            },
+        "cena":30,
+        "DSC": "Rare crystal, bluish gem, commonly used in jewelcrafting, adds mana"
+    },
+    {
+        "id": 17,
+        "name": "Dawnstone",
+        "image": "images/dawnstone.png",
+        "category":
+            {
+                "id": 3,
+                "name":"Precious Stones"
+            },
+        "cena":35,
+        "DSC": "Rare crystal, yellow gem, commonly used in jewelcrafting, adds agilaty"
+    },
+    {
+        "id": 18,
+        "name": "Emerald",
+        "image": "images/emerald.png",
+        "category":
+            {
+                "id": 3,
+                "name":"Precious Stones"
+            },
+        "cena":25,
+        "DSC": "Rare crystal, green gem, commonly used in jewelcrafting and ornaments"
+    },
+    {
+        "id": 19,
+        "name": "Nightseye",
+        "image": "images/nightseye.png",
+        "category":
+            {
+                "id": 3,
+                "name":"Precious Stones"
+            },
+        "cena":30,
+        "DSC": "Rare crystal, dark-purple gem, commonly used in jewelcrafting, emits shadowy glow, rumor has it that at night shadowy figures emerge looking for it!"
+    },
+    {
+        "id": 20,
+        "name": "Ruby",
+        "image": "images/ruby.png",
+        "category":
+            {
+                "id": 3,
+                "name":"Precious Stones"
+            },
+        "cena":40,
+        "DSC": "Rare crystal, red gem, commonly used in jewelcrafting and ornaments"
+    },
+    {
+        "id": 21,
+        "name": "Talasite",
+        "image": "images/talasite.png",
+        "category":
+            {
+                "id": 3,
+                "name":"Precious Stones"
+            },
+        "cena":20,
+        "DSC": "Rare crystal, neon-bluish gem, commonly used in jewelcrafting, adds mana"
+    },
+    {
+        "id": 22,
+        "name": "Dragons Heart",
+        "image": "images/dragonHeart.png",
+        "spec": "Rare Crystal, Firey color, Commonly found in Dragon lairs , Adds fame if found",
+        "category":
+            {
+                "id": 3,
+                "name":"Precious Stones"
+            },
+        "cena":"PAWS OFF! Touching forbidden",
+        "DSC": "Rare crystal, firey color, commonly found in Dragon lairs, it is believed that it's crystalized live dragon-fire, adds fame if found"
+    },
+    {
+        "id": 23,
+        "name": "Common Beer",
+        "image": "images/beer.png",
+        "category":
+            {
+                "id": 5,
+                "name":"Food & Drinks"
+            },
+        "cena":5,
+        "DSC": "Common beverage, mild taste, commonly found in any local tavern"
+    },
+    {
+        "id": 24,
+        "name": "Dragon's Breath",
+        "image": "images/dragonsBreath.png",
+        "category":
+            {
+                "id": 5,
+                "name":"Food & Drinks"
+            },
+        "cena":25,
+        "DSC": "Rare beverage, firey taste, commonly found among dwarf tavern, keeps you warm at icy winters, Drink from stone mugs!"
+    },
+    {
+        "id": 25,
+        "name": "Fish Beer",
+        "image": "images/FishBeer.png",
+        "category":
+            {
+                "id": 5,
+                "name":"Food & Drinks"
+            },
+        "cena":10,
+        "DSC": "Rare beverage, slimey taste, smells awful, commonly sold among Murlocs, 'Nk mllgggrrrr!' (Not thirsty in Nerglish) "
+    },
+    {
+        "id": 26,
+        "name": "Iron Hammer",
+        "image": "images/hammer.png",
+        "category":
+            {
+                "id": 4,
+                "name":"Tools"
+            },
+        "cena":5,
+        "DSC": "Common crafting tool, made of iron, commonly found in any local blacksmithing shop"
+    },
+    {
+        "id": 27,
+        "name": "Infused Hammer",
+        "image": "images/infusedHammer.png",
+        "category":
+            {
+                "id": 4,
+                "name":"Tools"
+            },
+        "cena":25,
+        "DSC": "Rare crafting tool, made of iron, infused with magic, commonly found aming dwarven blacksmiths"
+    },
+    {
+        "id": 28,
+        "name": "Treasure Map",
+        "image": "images/map.png",
+        "category":
+            {
+                "id": 6,
+                "name":"Other"
+            },
+        "cena":10,
+        "DSC": "Common item among adventurers, leads to treasure, commonly found in any local Adventurer's Guild, 'Did someone say treasure?' For Khaz-modan!"
+    },
+    {
+        "id": 29,
+        "name": "Pickaxe",
+        "image": "images/pick.png",
+        "category":
+            {
+                "id": 4,
+                "name":"Tools"
+            },
+        "cena":5,
+        "DSC": "Common gathering tool, made of iron, used for collecting ores, commonly found in any local blacksmithing shop"
+    }
+]

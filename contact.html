@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <link type="text/css" rel="stylesheet" href="css/still.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <meta name="description" content="Need work? Looking for beer, steel, hammers...">
+		<meta name="keywords" content="Minerals, forge, shop, dwarfs, beer, mythology">
+		<meta name="author" content="Miloš-Parezanović">
+		<title>D&H Contact</title>
+    </head>
+    <body class="bdy-contact">
+        <!-- navigation -->
+        <nav>
+            <div class="menu-icon">
+                <i class="fa fa-bars fa-2x"></i>
+            </div>
+            <a href="index.html" class="nav-logo-icon"></a>
+                <div class="menu">
+                        <ul>
+                            <li><a  href="store.html" >Store</a></li>
+                            <li><a  href="about.html">About</a></li>
+                            <li><a class="active" href="contact.html">Contact</a></li>
+                        </ul>
+                </div>
+        </nav>
+        <!-- nav end -->
+        
+            <div class="wrapper form">
+                <div class="form-heading">
+                        <h1>Message Board</h1>
+                </div>
+                <div class="contact-container">
+                    <div class="contact-wrapper">
+                        <div class="contact-form">
+                                <p>
+                                    <label>Name</label>
+                                    <input type="text" name="name" id="name">
+                                    <span id="errorName" class="error"></span>
+                                </p>
+                                <p>
+                                    <label>Contact</label>
+                                    <input type="email" name="email" id="email">
+                                    <span id="errorEmail" class="error">example@email.com</span>
+                                </p>
+                               
+                                <p>
+                                    <label>Message</label>
+                                    <textarea name="message" rows="5" id="msg"></textarea>
+                                    <span id="errorMsg" class="error"></span>
+                                </p>
+                                <p>
+                                    <button id="confirm"></button>
+                                </p>
+                        </div>
+                        <div class="customer-info">
+                             
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            
+            <!-- footer -->
+            <footer id="futer">
+                <div id="futer-media">
+                    <div class="footer-media-container">
+                        <div class="fu-media-left">
+                            <ul>
+                                <li><a href="store.html">Store</a></li>
+                                <li><a href="about.html">About</a></li>
+                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="dokumentacija.pdf">Documentation</a></li>
+                            </ul>
+                        </div>
+                        <div class="media-right">
+                            <a href="https://www.facebook.com"><i class="fa fa-facebook-square footer-media fmedia-face" style="font-size:26px"></i></a>
+                            <a href="https://twitter.com"><i class="fa fa-twitter footer-media fmedia-twit" aria-hidden="true" style="font-size:26px"></i></a>
+                            <a href="https://www.twitch.tv"><i class="fa fa-twitch footer-media fmedia-twitch" aria-hidden="true" style="font-size:26px"></i></a>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="footer-logo">
+                        <a class="futer-logo-icon" href="index.html"></a>
+                    <div class="corp">
+                        <h3>Drink and Hammer corp. since 2019</h3>
+                    </div>
+                </div>
+                <div class="futer-end">
+                    <span>&copy; 2019 Miloš Parezanović, all rights reserved.</span>
+                    <span class="rights">All trademarks referenced herein are the properties of their respective owners.</span>
+                </div>
+            </footer> 
+
+            <script type="text/javascript">
+                $(document).ready(function(){
+                    $(".menu-icon").on("click",function(){
+                        $("nav ul").toggleClass("showing");
+                    });
+                });
+            </script>
+            
+            <script src="js/contact.js" type="text/javascript"></script> 
+            
+    </body>
+</html>

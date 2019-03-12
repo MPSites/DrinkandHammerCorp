@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <link type="text/css" rel="stylesheet" href="css/still.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <meta name="description" content="Buy and Sell">
+		<meta name="keywords" content="Minerals, forge, shop, dwarfs, beer, mythology">
+		<meta name="author" content="Miloš-Parezanović">
+		<title>D&H Cashout</title>
+    </head>
+    <body>
+        
+        <!-- navigation -->
+            
+            <nav>
+                <div class="menu-icon">
+                    <i class="fa fa-bars fa-2x"></i>
+                </div>
+                <a href="#" class="nav-logo-icon"></a>
+                    <div class="menu">
+                            <ul>
+                                <li><a href="store.html" >Store</a></li>
+                                <li><a class="active" href="cart.html" >cart</a></li>
+                                <li><a href="about.html">About</a></li>
+                            </ul>
+                    </div>
+            </nav>
+
+            <!-- content -->
+            <div class="wrapper">
+                    <div class="shopping-cart">
+                        <!-- Title -->
+                        <div class="cart-title">
+                            <h4>Shopping Bag</h4>
+                        </div>
+                        <div id="cart-content">
+                            <!-- Product #1 -->
+                            
+                        </div>
+                        
+                    </div>
+            </div>
+            <!-- footer -->
+            
+            <footer id="futer">
+                    <div id="futer-media">
+                        <div class="footer-media-container">
+                            <div class="fu-media-left">
+                                <ul>
+                                    <li><a href="store.html">Store</a></li>
+                                    <li><a href="about.html">About</a></li>
+                                    <li><a href="contact.html">Contact</a></li>
+                                    <li><a href="#">Documentation</a></li>
+                                </ul>
+                            </div>
+                            <div class="media-right">
+                                <a href="https://www.facebook.com"><i class="fa fa-facebook-square footer-media fmedia-face" style="font-size:26px"></i></a>
+                                <a href="https://twitter.com"><i class="fa fa-twitter footer-media fmedia-twit" aria-hidden="true" style="font-size:26px"></i></a>
+                                <a href="https://www.twitch.tv"><i class="fa fa-twitch footer-media fmedia-twitch" aria-hidden="true" style="font-size:26px"></i></a>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footer-logo">
+                            <a class="futer-logo-icon" href="index.html"></a>
+                        <div class="corp">
+                            <h3>Drink and Hammer corp. since 2019</h3>
+                        </div>
+                    </div>
+                    <div class="futer-end">
+                        <span>&copy; 2019 Miloš Parezanović, all rights reserved.</span>
+                        <span class="rights">All trademarks referenced herein are the properties of their respective owners.</span>
+                    </div>
+                </footer> 
+        
+        <script type="text/javascript">
+            $(document).ready(function(){
+                $(".menu-icon").on("click",function(){
+                    $("nav ul").toggleClass("showing");
+                });
+            });
+        </script>
+        <script src="js/cart.js" type="text/javascript"></script> 
+    </body>
+</html>
