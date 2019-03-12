@@ -819,6 +819,7 @@ nav ul li a:hover{
 .contact-wrapper >*{
     padding: 1em;
 }
+
 .customer-info h3, .customer-info ul{
     text-align: center;
     margin: 1rem 0 0 0
@@ -886,14 +887,18 @@ nav ul li a:hover{
     font-size: 50px;
     text-align: center;
 }
-
+.customer-info{
+    padding: 1em;
+}
 /* LARGE SCREENS Form*/
 
 @media(min-width:700px){
     .contact-wrapper > *{
       padding:2em;
     }
-  
+    .customer-info{
+        padding: 1em;
+    }
     .customer-info h3, .customer-info ul{
       text-align: left;
     }
@@ -1036,7 +1041,9 @@ nav ul li a:hover{
     .customer-info{
         padding-top:0px;
     }
-    
+    .customer-info, .customer-info h3{
+        text-align: center;
+    }
     
 }
 @media (max-width: 700px){
