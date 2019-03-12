@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Drink and Hammer Corp.</title>
+  <link>https://mpsites.github.io/DrinkandHammerCorp/</link>
+  <description>Blacksmith shop and forge</description>
+  <item>
+    <title>About The Forge</title>
+    <link>https://mpsites.github.io/DrinkandHammerCorp/about.html</link>
+    <description>History of The Forge</description>
+  </item>
+  <item>
+    <title>Drink and Hammer Store</title>
+    <link>https://mpsites.github.io/DrinkandHammerCorp/store.html</link>
+    <description>Dwarven Smith Shop</description>
+  </item>
+</channel>
+
+</rss>
