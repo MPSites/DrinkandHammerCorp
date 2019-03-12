@@ -113,6 +113,7 @@ nav ul li a:hover{
     height: auto;
     margin-top: 200px;
     margin-bottom: 200px;
+    text-align: center;
 }
 .welcome-text h1{
     font-size: 100px;
@@ -177,6 +178,7 @@ nav ul li a:hover{
     font-family: Albertus;
     text-align: center;
     color: #fff;
+    padding: 10px;
 }
 .content-dsc2{
     width: 50%;
@@ -185,16 +187,19 @@ nav ul li a:hover{
     font-family: Albertus;
     text-align: center;
     color: #fff;
+    padding: 10px;
 }
 
 .content-dsc p{
     margin: 0;
     font-style: italic;
+
 }
 
 .content-dsc2 p{
     margin: 0;
     font-style: italic;
+
 }
 
 .content-dsc p em{

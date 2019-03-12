@@ -54,7 +54,7 @@ function generateCart(products){
                 </div>`;
     }
     html += `<div class="order">
-                <div class="cashout"><span><button class="back-btn">back to shop</button></span><span><button class="cash-btn">Buy</button></span></div>
+                <div class="cashout"><span><a href="store.html"><button class="back-btn">back to shop</button></a></span><span><button class="cash-btn">Buy</button></span></div>
             </div>`;
     $('#cart-content').html(html);
 }

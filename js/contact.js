@@ -13,10 +13,6 @@ window.onload = function() {
         var email = document.querySelector("#email").value.trim();
         var message = document.querySelector("#msg").value;
         
-	var imeClear = document.querySelector("#name");
-        var emailClear = document.querySelector("#email");
-        var messageClear = document.querySelector("#msg");
-	    
         var imeError = document.querySelector("#errorName");
         var emailError = document.querySelector("#errorEmail");
         var messageError = document.querySelector("#errorMsg");
@@ -32,8 +28,7 @@ window.onload = function() {
             uredu = false;
         } else {
             data.name=ime;
-            imeError.innerHTML = "";
-	    imeClear.value="";
+            imeError.innerHTML = "";   
         }
 
         if(email == "") {
@@ -44,8 +39,7 @@ window.onload = function() {
              uredu = false;
             } else {
              data.contact=email;
-             emailError.innerHTML = ""; 
-	     emailClear.value="";
+             emailError.innerHTML = "";   
          }
 
         if(message == "") {
@@ -53,8 +47,7 @@ window.onload = function() {
             uredu = false;  
         }  else {
              data.msg=message;
-             messageError.innerHTML = ""; 
-	     messageClear.value="";
+             messageError.innerHTML = "";   
         }
         console.log(data)
          
@@ -63,7 +56,7 @@ window.onload = function() {
                          <span>Name:</span><span class="output">${data.name}</span><br/>
                                 <span>Contact:</span><span class="output">${data.contact}</span><br/>
                                 <span>Message:</span>
-                                    <p>${data.msg}</p>`;
+                                    <p>${data.msg}</p>;`
             document.querySelector('.customer-info').innerHTML = output;
         }
 		
