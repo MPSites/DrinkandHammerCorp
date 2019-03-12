@@ -192,7 +192,7 @@
         "DSC": "Rare raw material, pale bluish color, can be smelted into bars, got the name form the mighty Norse God Thor"
     },
     {
-        "id": 16,
+        "id": 17,
         "name": "Azure",
         "image": "images/Azure.png",
         "category":
@@ -204,7 +204,7 @@
         "DSC": "Rare crystal, bluish gem, commonly used in jewelcrafting, adds mana"
     },
     {
-        "id": 17,
+        "id": 18,
         "name": "Dawnstone",
         "image": "images/dawnstone.png",
         "category":
@@ -216,7 +216,7 @@
         "DSC": "Rare crystal, yellow gem, commonly used in jewelcrafting, adds agilaty"
     },
     {
-        "id": 18,
+        "id": 19,
         "name": "Emerald",
         "image": "images/emerald.png",
         "category":
@@ -228,7 +228,7 @@
         "DSC": "Rare crystal, green gem, commonly used in jewelcrafting and ornaments"
     },
     {
-        "id": 19,
+        "id": 20,
         "name": "Nightseye",
         "image": "images/nightseye.png",
         "category":
@@ -240,7 +240,7 @@
         "DSC": "Rare crystal, dark-purple gem, commonly used in jewelcrafting, emits shadowy glow, rumor has it that at night shadowy figures emerge looking for it!"
     },
     {
-        "id": 20,
+        "id": 21,
         "name": "Ruby",
         "image": "images/ruby.png",
         "category":
@@ -252,7 +252,7 @@
         "DSC": "Rare crystal, red gem, commonly used in jewelcrafting and ornaments"
     },
     {
-        "id": 21,
+        "id": 22,
         "name": "Talasite",
         "image": "images/talasite.png",
         "category":
@@ -264,7 +264,7 @@
         "DSC": "Rare crystal, neon-bluish gem, commonly used in jewelcrafting, adds mana"
     },
     {
-        "id": 22,
+        "id": 23,
         "name": "Dragons Heart",
         "image": "images/dragonHeart.png",
         "spec": "Rare Crystal, Firey color, Commonly found in Dragon lairs , Adds fame if found",
@@ -277,7 +277,7 @@
         "DSC": "Rare crystal, firey color, commonly found in Dragon lairs, it is believed that it's crystalized live dragon-fire, adds fame if found"
     },
     {
-        "id": 23,
+        "id": 24,
         "name": "Common Beer",
         "image": "images/beer.png",
         "category":
@@ -289,7 +289,7 @@
         "DSC": "Common beverage, mild taste, commonly found in any local tavern"
     },
     {
-        "id": 24,
+        "id": 25,
         "name": "Dragon's Breath",
         "image": "images/dragonsBreath.png",
         "category":
@@ -301,7 +301,7 @@
         "DSC": "Rare beverage, firey taste, commonly found among dwarf tavern, keeps you warm at icy winters, Drink from stone mugs!"
     },
     {
-        "id": 25,
+        "id": 26,
         "name": "Fish Beer",
         "image": "images/FishBeer.png",
         "category":
@@ -313,7 +313,7 @@
         "DSC": "Rare beverage, slimey taste, smells awful, commonly sold among Murlocs, 'Nk mllgggrrrr!' (Not thirsty in Nerglish) "
     },
     {
-        "id": 26,
+        "id": 27,
         "name": "Iron Hammer",
         "image": "images/hammer.png",
         "category":
@@ -325,7 +325,7 @@
         "DSC": "Common crafting tool, made of iron, commonly found in any local blacksmithing shop"
     },
     {
-        "id": 27,
+        "id": 28,
         "name": "Infused Hammer",
         "image": "images/infusedHammer.png",
         "category":
@@ -337,7 +337,7 @@
         "DSC": "Rare crafting tool, made of iron, infused with magic, commonly found aming dwarven blacksmiths"
     },
     {
-        "id": 28,
+        "id": 29,
         "name": "Treasure Map",
         "image": "images/map.png",
         "category":
@@ -349,7 +349,7 @@
         "DSC": "Common item among adventurers, leads to treasure, commonly found in any local Adventurer's Guild, 'Did someone say treasure?' For Khaz-modan!"
     },
     {
-        "id": 29,
+        "id": 30,
         "name": "Pickaxe",
         "image": "images/pick.png",
         "category":

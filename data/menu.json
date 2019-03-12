@@ -1,0 +1,18 @@
+[
+    {
+      "href": "Store.html",
+      "tekst": "Store"
+    },
+    {
+        "href": "about.html",
+        "tekst": "About"
+    },
+    {
+      "href": "community.html",
+      "tekst": "Community"
+    },
+    {
+      "href": "signin.html",
+      "tekst": "Sign in"
+    }
+  ]
