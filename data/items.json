@@ -26,7 +26,7 @@
     {
         "id": 3,
         "name": "Dark Iron Bar",
-        "image": "images/darkIronBar.png",
+        "image": "images/darkIronbar.png",
         "category":
             {
                 "id": 2,
@@ -146,7 +146,7 @@
     {
         "id": 13,
         "name": "Fel Iron Ore",
-        "image": "images/felIronOre.png",
+        "image": "images/FelIronOre.png",
         "category":
             {
                 "id": 1,
@@ -194,7 +194,7 @@
     {
         "id": 16,
         "name": "Azure",
-        "image": "images/azure.png",
+        "image": "images/Azure.png",
         "category":
             {
                 "id": 3,
