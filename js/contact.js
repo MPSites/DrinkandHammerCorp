@@ -56,7 +56,7 @@ window.onload = function() {
                          <span>Name:</span><span class="output">${data.name}</span><br/>
                                 <span>Contact:</span><span class="output">${data.contact}</span><br/>
                                 <span>Message:</span>
-                                    <p>${data.msg}</p>;`
+                                    <p>${data.msg}</p>`;
             document.querySelector('.customer-info').innerHTML = output;
         }
 		
