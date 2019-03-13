@@ -91,9 +91,6 @@ $(document).ready(function(){
             addFirstItemToLocalStorage();
         }
     
-        alert("Item added to cart!");
-    
-        
         function productIsAlreadyInCart() {
             return products.filter(p => p.id == id).length;
         }
