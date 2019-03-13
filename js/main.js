@@ -252,9 +252,3 @@ $(document).ready(function(){
         return products.filter(x => x.category.id == categoryId);
     }
     
-   
-
-   
-    
-
-    
