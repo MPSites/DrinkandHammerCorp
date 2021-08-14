@@ -5,3 +5,6 @@ This is a purely static website made for my third school assignment, for the sub
 Tools used:
 
 HTML, CSS, JavaScript, JQuery(Ajax) and JSON
+
+You can access the website via this link:<br/>
+https://mpsites.github.io/DrinkandHammerCorp
