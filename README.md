@@ -8,3 +8,6 @@ HTML, CSS, JavaScript, JQuery(Ajax) and JSON
 
 You can access the website via this link:<br/>
 https://mpsites.github.io/DrinkandHammerCorp
+
+View Documentation - file for this project <br/>
+<a href="">Documentation</a>
