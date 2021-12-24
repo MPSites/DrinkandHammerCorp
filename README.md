@@ -6,4 +6,5 @@ You can access the website via this link:<br/>
 https://mpsites.github.io/DrinkandHammerCorp
 
 View Documentation - file for this project <br/>
-<a href="https://raw.githubusercontent.com/MPSites/DrinkandHammerCorp/gh-pages/dokumentacija.pdf">Documentation</a>
+English - <a href="https://raw.githubusercontent.com/MPSites/DrinkandHammerCorp/gh-pages/w2doc_eng.pdf">Documentation</a> <br/>
+Serbian - <a href="https://raw.githubusercontent.com/MPSites/DrinkandHammerCorp/gh-pages/dokumentacija.pdf">Documentation</a>
